@@ -1,4 +1,4 @@
-Put your API keys in .env file
+Put your API keys in .env file  
 OPENAI_API_KEY=  
 GOOGLE_API_KEY=  
 GROQ_API_KEY=  
